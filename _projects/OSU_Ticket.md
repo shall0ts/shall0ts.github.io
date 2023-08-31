@@ -5,7 +5,7 @@ description: an analysis of human behavior on college gamedays
 img: assets/img/osu_stadium.jpg
 importance: 1
 category: school
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications:
 ---
 
 This project was completed as part of the <a href="https://fisher.osu.edu/undergraduate/leadership-engagement/experiential-learning/industry-immersion-program">Industry Immersion</a> program with a group of three other students in the class. Data was provided by OSU Athletics detailing all ticket scans on every Ohio State gameday in the 2022 college football season. 
