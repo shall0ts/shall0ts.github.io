@@ -1,9 +1,9 @@
 ---
 layout: page
 title: OSU Green Space Analysis
-description: a GIS study on campus green space over time (1980-2022)
+description: a GIS analysis on campus green space over time (1980-2022)
 img: assets/img/oval.jpg
-importance: 1
+importance: 2
 category: school
 related_publications:
 ---
@@ -46,6 +46,6 @@ The 1980 map of campus was obtained from a contact in the Department of Geograph
     Maps of campus with barriers in blue highlighter. 1980 on the left, 2022 on the right. 
 </div>
 
-This project was presented at a USG General Assembly meeting. The analysis was well received. Several members of the Assembly thanked me for the work and considered themselves well informed with the status of campus green space. d
+This project was presented at a USG General Assembly meeting on November 30th, 2022. The analysis was well received. Several members of the Assembly thanked me for the work and considered themselves well informed with the status of campus green space.
 
 Refer to my <a href="https://github.com/shall0ts/Projects">GitHub repo</a> for PowerPoint presented to the Assembly and a pdf of some of the notes I took during a touchpoint with the Environment and Sustainability Committee.
