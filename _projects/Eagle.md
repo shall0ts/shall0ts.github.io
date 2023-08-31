@@ -2,7 +2,7 @@
 layout: page
 title: Eagle Scout project
 description: a service project with an interesting story
-img:
+img: assets/img/eagle.jpg
 importance: 4
 category: fun
 ---
