@@ -23,21 +23,18 @@ Flash back to September 11th, 2021 and the first game of the season is at home a
     Chaos ensues as gate agents attempt to hold back students, many here for their first gameday. 
 </div>
 
-
+Our analysis looked at the overall distribution of fans and which gates they decided to go into. We used a caluclated metric, Entires per Seat, to understand which gates were overcrowed. To explain: Each gate number corresponds to the same section number in the stadium. Fans are instructed to enter at the gate in which their section is closest to. However, because of game day activites, parking lot locations, and press setups, fans overcrowd the north gates of the stadium. These phenomenons are depicted below. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/stadium_dist.jpg" title="stadium fan dis" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/eps.jpg" title="Earnings per Seat" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    On the left, which percentage of fans go where is shown with a map and a compass. On the right, we show some of the most overcrowded gates using the Earnings per Seat metric.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
