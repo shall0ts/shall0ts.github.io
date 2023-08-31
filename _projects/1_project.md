@@ -1,25 +1,29 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: OSU Athletics Ticket Analysis
+description: an analysis of human behavior on college gamedays
+img: assets/img/osu_stadium.jpg
 importance: 1
-category: work
+category: school
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Refer to my <a href="https://github.com/shall0ts/Projects">GitHub</a> repository for the hardcopy of the PowerPoint presented to the Athletic Department and CSV files used for the analysis. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This project was completed as part of the Industry Immersion program with a group of three other students in the class. Data was provided by OSU Athletics detailing all ticket scans on every Ohio State gameday in the 2022 college football season. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Flash back to September 11th, 2021 and the first game of the season is at home against the Oregon Ducks. A reminder: Ohio State had no fans for all of the 2020 season due to COVID. People are excited for the first home game, but they are even more excited when the last game they could have even gone to was over 2 years ago. In addition, Ohio State is also using a new system to read tickets. Instead of barcode scanners, new near-field communcation devices were used to admit digital tickets. Unfortunaly, these scanners broke down, and in the name of safety, gate agents let everyone in. What was a large safety issue and possible entrance of non-ticketed fans caused OSU to take a closer look at how fans decide what gate to enter and the distribution of fans throughout all the gates. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/students.jpg" title="Student Rush" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Chaos ensues as gate agents attempt to hold back students, many here for their first gameday. 
+</div>
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
