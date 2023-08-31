@@ -41,13 +41,13 @@ Here is a more in-depth look at two problem sections and the "best" section to e
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/sec7_9_11.jpg" title="stadium fan dis" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/sec7_9_11.jpg" title="Gates 7,9,11" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/sec12_14.jpg" title="Entries per Seat" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/sec12_14.jpg" title="Gates 12, 14" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/sec23_25.jpg" title="Entries per Seat" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/sec23_25.jpg" title="Gates 23, 25" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
