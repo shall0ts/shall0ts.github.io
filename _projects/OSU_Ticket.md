@@ -16,7 +16,7 @@ What was a nightmare for the Athletics Department turned into some opportunities
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/students.jpg" title="Student Rush" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/students.JPG" title="Student Rush" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
