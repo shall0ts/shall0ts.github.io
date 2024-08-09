@@ -5,7 +5,7 @@ permalink: /projects/
 description: My beautiful projects, prepare to endulge!
 nav: true
 nav_order: 2
-display_categories: [school, fun]
+display_categories: [school/work, fun]
 horizontal: false
 ---
 
