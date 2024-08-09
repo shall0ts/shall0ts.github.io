@@ -4,7 +4,7 @@ title: OSU Green Space Analysis
 description: a GIS analysis on campus green space over time (1980-2022)
 img: assets/img/oval.jpg
 importance: 2
-category: school
+category: school/work
 related_publications:
 ---
 

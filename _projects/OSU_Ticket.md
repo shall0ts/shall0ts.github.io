@@ -4,7 +4,7 @@ title: OSU Athletics Ticket Analysis
 description: an analysis of human behavior on college gamedays
 img: assets/img/osu_stadium.jpg
 importance: 1
-category: school
+category: school/work
 related_publications:
 ---
 
